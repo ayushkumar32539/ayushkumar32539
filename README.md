@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="ayushkumar32539"/></p>
+<p align="center"> <img width="400" height="60%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="ayushkumar32539"/></p>
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkumar32539&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar32539" height="70%"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkumar32539&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar32539" /> </p>
 
 - 🌱 I’m currently learning **react Js**
 
