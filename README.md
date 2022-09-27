@@ -1,4 +1,4 @@
-<p align="center"> <img height="60%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="ayushkumar32539"/></p>
+<p align="center"> <img width="500" height="60%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="ayushkumar32539"/></p>
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
